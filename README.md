@@ -19,4 +19,6 @@ Static Web Apps, Azure DevOps, Visual Studio Code,
 
 Other Azure Technologies:
 Azure Resources, Azure Monitor
+
+
 https://github.com/varshith-k/PlantQRGarden
